@@ -1,0 +1,1 @@
+KRANIN_ADMIN_LAUNCHER.zip filter=lfs diff=lfs merge=lfs -text
