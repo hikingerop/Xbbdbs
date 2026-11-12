@@ -1,1 +1,2 @@
 KRANIN_ADMIN_LAUNCHER.zip filter=lfs diff=lfs merge=lfs -text
+RP_STARTER_TEST.apk filter=lfs diff=lfs merge=lfs -text
